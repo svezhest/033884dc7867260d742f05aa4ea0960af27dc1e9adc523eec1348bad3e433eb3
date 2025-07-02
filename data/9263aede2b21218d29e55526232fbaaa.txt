@@ -1,0 +1,25 @@
+Тестович Тест Тестович
+Опыт работы: 8 лет
+Ключевые навыки: Java 8-11, Spring Framework (JDBC, ORM, Transactions, Web, AOP, ACL), Kafka, Maven, Gradle, Docker, Swagger, Junit, Testcontainers, PostgreSQL, Oracle, MariaDB, Openshift, Microservices
+Ноябрь 2021 – настоящее время
+Netris
+Senior Java Developer
+Проект: Видеохостинг, api-proxy, ins-service Разработка новых сервисов Разработка нового функционала Поддержка и багофиксинг готового функционала Код ревью Планирование и оценка задач
+Основной стэк технологий: Java 8-11, Spring boot 2.4, JDBC, ORM, REST, SOAP, ACL, AOP, Kafka, Maven, Docker, Swagger, Junit, Testcontainers, MariaDB, PostgreSQL, Redmine
+Команда: 2 java debeloper, FE, QA, Team Lead, BA, PM
+Март 2020 Ноябрь 2021
+EPAM
+Проект: Кабинет сотрудника ВТБ
+Middle+ Java DeveloperРазработка новых микросервисов Поддержка и багофиксинг продукта Код ревью Менторинг Планирование и оценка задач
+Основной стэк технологий: Java 8-11, Kotlin, Spring boot, JDBC, ORM, REST, AOP, Kafka, Maven, Docker, Swagger, Junit, Testcontainers, PostgreSQL, Jira
+Команда: 2 java debeloper, FE, QA, Team Lead, BA, PM
+Июнь 2016 Март 2020
+Nercracker
+Проект: Resource Inventory
+Junior/Middle Java Developer Поддержка продукта Багофиксинг Разработка нового функционала Менторинг
+Основной стек технологий: Java 6-8, JDBC, Maven, Ant, Swagger, Junit, JavaScript, Css, Oracle, Jira, Spring Boot
+Образование
+Самарский национальный исследовательский университет имени академика С.П. Королёва
+Информатики
+Магистр по специализации "Информатика и вычислительная техника"
+сентябрь 2012 —август 2018

@@ -1,0 +1,73 @@
+
+Тестович Тест Тестович
+Role: Regular Functional/System Analyst
+Specialization: Functional/System Analysis
+Location: Moscow
+Summary
+Системный аналитик с обширными знаниями в области баз данных.
+Имеет опыт проведения собеседований и обучения сотрудников на позиции специалиста тех. поддержки и системного аналитика.
+Также имеет опыт взаимодействия с вендором по вопросам заказной разработки.
+Skills
+Tools and Technologies
+Oracle, PL/SQL, Linux, API, JSON, HTTP, Atlassian BitBucket, Atlassian Confluence, Atlassian Jira, Draw.io, Git, IntelliJ IDEA, OpenShift, Postman, REST, SOAP, Swagger, TeamCity, XML, PostgreSQL, PyCharm, Python, Elastic Kibana
+Interpersonal and People Management
+Mentoring, Technical interviewing
+Analytical Skills and Methodologies
+UML, System analysis
+Consulting Skills
+L1 technical support
+Other
+Camunda, Lotus
+Work Experience
+IT-ONE
+Nov 2023 – Present, Системный аналитик
+Разработка омниканальной платформы, обеспечивающей бизнес процесс выдачи кредитных карт.
+За время работы успешно внедрил возможность выдачи второй кредитной карты в одни руки
+(новый процесс с описанием БП и логической модели взаимодействия, REST, low-code)
+Responsibilities:
+Подготовка спецификаций требований к ПО и других документов
+Анализ бизнес инициатив
+Подготовка требований к разработке
+Взаимодействие с заинтересованными лицами на предмет выявления, уточнения и утверждения требований
+Поддержка тестирования
+Подготовка оценок трудозатрат по аналитическим работам
+Консультация заинтересованных лиц
+Поддержка релизов (написание инструкций для поддержки, самостоятельный релиз)
+Разработка экранных форм (front-end) с использованием возможностей low-code платформы
+Technology and Skills: 
+API, Atlassian BitBucket, Atlassian Confluence, Atlassian Jira, Camunda, Draw.io, Elastic Kibana, Git, HTTP, IntelliJ IDEA, JSON, OpenShift, PostgreSQL, Postman, REST, System analysis, TeamCity
+Кубань Кредит
+May 2023 – Oct 2023, Системный аналитик
+За время работы успешно внедрил: интеграцию платежного центра с сервисом онлайн-взаимодействия НЭСК в части получения начислений и приема платежей (взаимодействие с внешней средой, SOAP); интеграцию почтового клиента Lotus с REST API сервиса документооборота Диадок в части получения новых документов в соответствии с заданными критериями (взаимодействие с внешней средой, REST + SOAP) интеграцию платежного центра с сервисом ДБО, отвечающим за получение информации об услугах и платежах (взаимодействие с внутренней средой, REST)
+Responsibilities:
+Technology and Skills: 
+API, Atlassian Confluence, Atlassian Jira, Git, HTTP, JSON, Lotus, Mentoring, Oracle, PL/SQL, PostgreSQL, Postman, REST, SOAP, Swagger, System analysis, Technical interviewing, UML, XML
+ООО "ИТМ
+May 2021 – May 2023, Специалист поддержки
+Responsibilities:
+Technology and Skills: 
+L1 technical support, Linux, Mentoring, Oracle
+Oct 2020 – May 2021, Специалист поддержки
+Responsibilities:
+Technology and Skills: 
+L1 technical support, Linux, Oracle
+ООО «Сбербанк-Сервис
+Oct 2018 – Jul 2019, Координатор
+Responsibilities:
+May 2018 – Jul 2019, Инженер сервиса АРМ
+Responsibilities:
+Mar 2018 – May 2018, Инженер сервиса POS
+Responsibilities:
+ПАО «Сбербанк
+Aug 2017 – Mar 2018, Специалист поддержки
+Responsibilities:
+Languages
+Russian – Proficient
+English – Upper Intermediate
+Education
+2019 Кубанский Государственный Технологический Университет
+Специалист, Специалист по защите информации
+Training Courses
+Mar 2023 Python: основы и применение
+Feb 2023 Программирование на Python
+Jan 2023 Интерактивный тренажер по SQL

@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Data files
+*.csv
+*.tsv
+*.json
+*.h5
+*.pkl
+*.pickle
+
+# Model files
+*.h5
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other
+*.egg-info/
+dist/
+build/
+

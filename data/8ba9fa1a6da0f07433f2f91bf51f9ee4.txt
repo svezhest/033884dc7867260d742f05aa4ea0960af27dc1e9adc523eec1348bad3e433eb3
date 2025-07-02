@@ -1,0 +1,27 @@
+Тестович Тест Тестович
+Java Developer (Russian Post) 
+34 года (10 ноября 1989)
+Russia, Moscow
+Профессиональный опыт
+Russian Post
+Middle Java Developer
+Май 2021 — по настоящее время (2 года 11 месяцев)
+My responsibilities:* Backend team leader (3 people including me).* Discussion with analysts of the sequence of implemented features and refactorings.* Assistance and approval of changes to OpenApi microservice contracts.* Assistance in the preparation and decomposition of tasks.* Development and review of the code of the backend team.* Code monitoring and timely refactoring (separated the code into separate services within one microservice, and sometimes it was necessary to allocate some functionality to separate microservices).
+MTS Group
+Java Developer
+Июль 2019 — Апрель 2021 (1 год 10 месяцев)
+My responsibilities:* Developing new functionality and covering it with unit tests.* Support for old functionality and correction of identified bugs during the operation of the product.* Bringing new functionality to production.* The project used a microservice architecture built using JHipster: Spring Boot 2.1 + Java 11 + MongoDB + Hazelcast + Kafka.* Worked with Rest and SOAP requests, Docker, Docker-Compose, Kibana, Portainer.* Part of the application was written in Groovy scripts.* All code was covered by unit tests I got good experience in this area, as well as experience in using WireMock stubs.* Also gained experience in writing SoapUi stubs for the application.
+RedSys
+Java Developer
+Август 2015 — Июнь 2019 (3 года 11 месяцев)-Junior Java DeveloperАвгуст 2018 — июнь 2019 * Since August 2018, I moved to another department to develop and support the test data generation stand.* The work used java 8, Spring framework, Hibernate, Sql queries to postgre, mysql, db2 databases.* Work with documents in different formats: csv, xml, json. Since the department is not very large, we were also entrusted with the front-end (Java Script, jsp, css).PL/SQL DeveloperАвгуст 2015 — август 2018* Until August 2018, I was developing ETL stored procedures for data marts.* I was involved in data loading and inter-report testing.
+Romir
+SQL Developer
+Март 2014 — Июнь 2015 (1 год 4 месяца)
+* In this organization, I was engaged in programming on MYSQL databases.* Creation of final reports, the data from which was used for presentation to the company's clients.* At this place of work, I gained good experience in compiling SQL queries.
+Ключевые навыки
+Java, Spring Boot, Groovy, Gradle, Liquibase, JUnit, SQL, Hibernate, Git, gRPC
+Образование
+Synergy
+Finance2008 — 2011
+Знание языков
+Английский — B1 — Intermediate

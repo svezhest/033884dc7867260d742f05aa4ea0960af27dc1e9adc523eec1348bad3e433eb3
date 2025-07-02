@@ -1,0 +1,55 @@
+
+Тестович Тест Тестович
+Возраст: 28 лет (4 октября 1995)
+Проживает: Омск
+Гражданство: Россия
+Желаемая должность: Java Developer
+Желаемая зарплата: 
+Телефон: +7 000 000 00 00
+Email: xxx@test.test
+Опыт работы 6 лет 6 месяцев
+Raiffeisenbank
+октябрь 2021 настоящее время, 2 года 8 месяцев
+Омск
+Программист Java
+Development of in house CRM system for the needs of the bank. Api-first approach. Dividing the
+monolith into microservices. Implementation of cross-service integrations.
+Writing spring starters. Participated in the construction of Gitlab pipelines. Writing
+unit/integration/unit tests. Scrum work Java 11/21; Spring Boot; OpenAPI; TestContainers; MapStruct; Hibernate; Liquibase PostgreSQL 12/15; JUnit 5; Gradle.
+Raiffeisenbank
+декабрь 2017 октябрь 2021, 3 года 11 месяцев
+Automation QA
+Automation QA
+Raised a project on Java + Selenuim + Cucumber
+Regression test set coverage from 0% to 60%
+Manual QA
+Functional testing, regression testing, smoke testing of the Siebel CRM system
+Writing test documentation writing test cases preparation of bug reports preparation of a test plan
+Working with the database, compiling SQL queries
+Working with the developer panel
+API testing
+Demonstration of functionality to users
+Ключевые навыки
+Java PostgreSQL Hibernate ORM Spring Framework REST Ответственность 
+Образование
+Омский государственный технический университет, Омск
+ФЭОиМ, Фундаментальная информатика и информационные технологии
+Уровень образования: Высшее
+Год окончания: 2019
+Омский государственный технический университет, Омск
+ФИТиКС, Управление и информатика в технических системах
+Уровень образования: Высшее
+Год окончания: 2017
+Курсы
+Знание языков
+Английский – Средне-продвинутый
+Русский – Родной
+Дополнительная информация
+Готов(а) к переезду: Да
+Готов(а) к командировкам: Да
+Формат работы: Удаленный
+График: Полный день, Гибкий график, Сменный график
+Обо мне
+Быстро обучаем, желание работать в команде, общителен, коммуникабелен, во время обучения участвовал в КВН и других мероприятиях.
+В работе ценю коллектив и интересные задачи.
+Интересуюсь миром IT и автомобилями.

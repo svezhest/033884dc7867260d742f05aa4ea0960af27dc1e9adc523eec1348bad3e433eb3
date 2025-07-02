@@ -1,0 +1,1 @@
+,user,kali,31.05.2024 18:42,file:///home/user/.config/libreoffice/4;
